@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Cloud, Data and AI projects
-- 🌱 I’m currently learning Python and Google Cloud
-- 👯 I’m looking to collaborate with data and cloud enthusiasts
+- 🌱 I’m currently learning Python, Linux and AWS
+- 👯 I’m looking to collaborate with data and cloud professionals
 - 📫 How to reach me: vincentonyeabor@hotmail.com
 
 
