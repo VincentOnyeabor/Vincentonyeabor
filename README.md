@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning SQL, Python, Linux, and AWS
 - 👯 I’m looking to collaborate with data and cloud professionals
 - 📫 How to reach me: vincentonyeabor@hotmail.com
+- ✍️ Check out my Substack account - https://substack.com/@vincentodinakaonyeabor 
 
 
 <!--
